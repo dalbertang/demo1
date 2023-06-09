@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# .npmrc
+.npmrc
+
+# misc
+.DS_Store
+*.pem
+.idea
