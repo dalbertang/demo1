@@ -8,3 +8,9 @@
 .DS_Store
 *.pem
 .idea
+
+# next.js
+/.next/
+
+# testing
+/coverage
